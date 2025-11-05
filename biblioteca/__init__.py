@@ -6,5 +6,4 @@ class Biblioteca:
         self.city = city
         self.libros = []
 
-def adicionar_libro(self, libro):
-    self.libros.append(libro)
+

@@ -5,5 +5,3 @@ class Libro:
         self.autor = autor
         self.is_borrow = False
 
-def añadir_libro(self, libros):
-    libros.append(self)
